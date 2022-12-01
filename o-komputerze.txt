@@ -1,1 +1,54 @@
 Linux js 5.4.0-132-generic #148-Ubuntu SMP Mon Oct 17 16:02:06 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       16267228 kB
+MemFree:         9463624 kB
+MemAvailable:   12725156 kB
+Buffers:          459300 kB
+Cached:          3043484 kB
+SwapCached:            0 kB
+Active:          4302532 kB
+Inactive:        1762868 kB
+Active(anon):    2565316 kB
+Inactive(anon):   176828 kB
+Active(file):    1737216 kB
+Inactive(file):  1586040 kB
+Unevictable:        7216 kB
+Mlocked:              32 kB
+SwapTotal:       3071996 kB
+SwapFree:        3071996 kB
+Dirty:               356 kB
+Writeback:             0 kB
+AnonPages:       2569848 kB
+Mapped:           756264 kB
+Shmem:            186716 kB
+KReclaimable:     276356 kB
+Slab:             480492 kB
+SReclaimable:     276356 kB
+SUnreclaim:       204136 kB
+KernelStack:       13840 kB
+PageTables:        32840 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    11205608 kB
+Committed_AS:    8798068 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       75964 kB
+VmallocChunk:          0 kB
+Percpu:             9184 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      581332 kB
+DirectMap2M:     9779200 kB
+DirectMap1G:     6291456 kB
